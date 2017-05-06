@@ -10,7 +10,8 @@ This repo contains javascript event listener exercises. The results are hosted o
 ## Installation
 ```
 git clone https://reggevans.github.io/eventListeners/
+git remote remove origin
 open index.html
+write answers in main.js
 ```
-## License
-This project is licensed under the MIT License.
+
